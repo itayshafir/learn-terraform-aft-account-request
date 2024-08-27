@@ -16,7 +16,7 @@ module "AccountReq03" {
 
   change_management_parameters = {
     change_requested_by = "HashiCorp Learn"
-    change_reason       = "Learn AW3S Control Tower Account Factory for Terraform"
+    change_reason       = "Add cust"
   }
 
   custom_fields = {
